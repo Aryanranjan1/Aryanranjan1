@@ -1,18 +1,75 @@
-# 👋 Hi, I'm Aryan Ranjan
+<!-- Header banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Aryan%20Ranjan&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Backend%20%C2%B7%20Systems%20%C2%B7%20Full-Stack&descSize=20&descAlignY=60" alt="Aryan Ranjan banner" width="100%" />
 
-### Computer Science Student · Software Developer
+  <a href="https://github.com/Aryanranjan1">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Computer+Science+Student;Software+Developer;Backend+%7C+Systems+%7C+Full-Stack;Building+and+understanding+how+things+work" alt="Typing animation" />
+  </a>
 
-Interested in backend engineering, systems programming, and full-stack development. I enjoy building applications, exploring software architecture, and solving engineering problems.
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Aryanranjan1&label=Profile+views&color=8B5CF6&style=flat-square" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/Aryanranjan1?label=Followers&style=flat-square&color=06B6D4&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-22C55E?style=flat-square" alt="Open to opportunities" />
+  </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a computer science student who loves figuring out what happens **under the hood**. I build full-stack applications, dig into software architecture, and enjoy the kind of engineering problems that make you read the docs, then the source.
+
+```ts
+const aryan = {
+  location: "Kolkata, India 🇮🇳",
+  focus: ["Backend engineering", "Systems programming", "Full-stack development"],
+  currentlyLearning: ["Distributed systems", "Software architecture", "Low-level internals"],
+  funFact: "I'd rather understand it than just use it.",
+  openTo: ["Internships", "Open-source collaboration", "Interesting problems"],
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,postgres,tailwind,linux,docker,git&perline=7" alt="Technologies: Java, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Tailwind CSS, Linux, Docker, Git" />
-</p>
+<div align="center">
 
-## 📊 GitHub Statistics
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&perline=8" alt="Languages: Java, Python, JavaScript, TypeScript" />
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express&perline=8" alt="React, Next.js, Tailwind, Node.js, Express" />
+
+**Data & Tooling**
+
+<img src="https://skillicons.dev/icons?i=postgres,linux,docker,git&perline=8" alt="PostgreSQL, Linux, Docker, Git" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!--
+  Replace the entries below with your real projects. Pin your best 4-6 repos
+  on your GitHub profile too, since they show right under this README.
+
+  Template:
+  | [**Project Name**](https://github.com/Aryanranjan1/repo) | One-line description of what it does and why it's interesting | `Tech` `Stack` |
+-->
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Portfolio Platform**](https://www.aryanranjan.dev) | Personal site with About, Blog and Projects sections | `Next.js` `TypeScript` `Tailwind` |
+| _Add your next project_ | _What problem it solves, in one line_ | `Stack` |
+| _Add your next project_ | _What problem it solves, in one line_ | `Stack` |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <table>
@@ -25,7 +82,16 @@ Interested in backend engineering, systems programming, and full-stack developme
       </td>
     </tr>
   </table>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanranjan1&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanranjan1&theme=dracula&hide_border=true" height="165" alt="GitHub streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanranjan1&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=ffffff" width="100%" alt="Contribution activity graph" />
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
@@ -36,9 +102,6 @@ Interested in backend engineering, systems programming, and full-stack developme
   <a href="mailto:contact@aryanranjan.dev">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Aryanranjan1">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/aryanranjan-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -48,11 +111,11 @@ Interested in backend engineering, systems programming, and full-stack developme
 </p>
 
 <p align="center">
-  📍 Kolkata, West Bengal, India · Open to opportunities
+  📍 Kolkata, West Bengal, India · 🟢 Open to opportunities
 </p>
 
----
-
-<p align="center">
+<div align="center">
   <i>Building, learning, and understanding how things work under the hood.</i>
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=100&section=footer" width="100%" alt="Footer wave" />
