@@ -78,9 +78,9 @@ const aryan = {
 
 ### 🔭 What I'm Working On
 
--🌪️ Building a cyclone-prediction machine learning model and a content platform with Next.js and TypeScript
--📚 Digging into backend architecture, databases and how operating systems work
--🌱 Looking for open-source issues to contribute to and projects to ship
+- 🌪️ Building a cyclone-prediction machine learning model and a content platform with Next.js and TypeScript
+- 📚 Digging into backend architecture, databases, and operating system internals
+- 🌱 Looking for open-source issues to contribute to and projects to ship
 
 ---
 
