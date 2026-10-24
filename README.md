@@ -1,39 +1,38 @@
-<h2 align="left">👋 Hi, I’m Aryan Ranjan, a Computer Science student</h2>
+# 👋 Hi, I'm Aryan Ranjan
 
-###
+### Computer Science Student · Software Developer
+
+Interested in backend engineering, systems programming, and full-stack development. I enjoy building applications, exploring software architecture, and solving engineering problems.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,postgres,tailwind,linux,docker,git&perline=7" alt="Technologies: Java, Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Tailwind CSS, Linux, Docker, Git" />
+</p>
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanranjan1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryanranjan1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryanranjan1&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github" alt="Aryan's GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanranjan1&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Most used programming languages" />
 </div>
 
-###
+## 🌐 Connect With Me
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/145892046?v=4"  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryanranjan-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Aryanranjan1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add your verified Instagram, email, and Stack Overflow URLs here -->
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-</div>
-
-###
+<p align="center">
+  <i>Building, learning, and understanding how things work under the hood.</i>
+</p>
