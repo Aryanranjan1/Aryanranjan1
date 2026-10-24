@@ -53,19 +53,11 @@ const aryan = {
 
 ## 🚀 Featured Projects
 
-<!--
-  Replace the entries below with your real projects. Pin your best 4-6 repos
-  on your GitHub profile too, since they show right under this README.
-
-  Template:
-  | [**Project Name**](https://github.com/Aryanranjan1/repo) | One-line description of what it does and why it's interesting | `Tech` `Stack` |
--->
-
 | Project | What it is | Stack |
 |---|---|---|
-| [**Portfolio Platform**](https://www.aryanranjan.dev) | Personal site with About, Blog and Projects sections | `Next.js` `TypeScript` `Tailwind` |
-| _Add your next project_ | _What problem it solves, in one line_ | `Stack` |
-| _Add your next project_ | _What problem it solves, in one line_ | `Stack` |
+| [**Portfolio Platform**](https://www.aryanranjan.dev) | Personal site with About, Blog and Projects sections | `Next.js` `TypeScript` `Tailwind CSS` |
+| **Kopi Dua Darjat** | Website project for a Malaysian coffee brand with 50+ outlets | `Next.js` `Firebase` |
+| **CNN from Scratch** | Implementation of a convolutional neural network to explore core deep-learning concepts | `Python` `CNN` `Deep Learning` |
 
 ---
 
@@ -86,10 +78,11 @@ const aryan = {
 
 ### 🔭 What I'm Working On
 
-- 🌐 Building my portfolio and content platform with Next.js and TypeScript
-- 📚 Digging into backend architecture, databases and how operating systems work
-- 🌱 Looking for open-source issues to contribute to and projects to ship
+-🌪️ Building a cyclone-prediction machine learning model and a content platform with Next.js and TypeScript
 
+-📚 Digging into backend architecture, databases and how operating systems work
+
+-🌱 Looking for open-source issues to contribute to and projects to ship
 ---
 
 ## 🤝 Let's Connect
