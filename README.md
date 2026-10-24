@@ -46,6 +46,7 @@ Interested in backend engineering, systems programming, and full-stack developme
 <p align="center">
   📍 Kolkata, West Bengal, India · Open to opportunities
 </p>
+
 ---
 
 <p align="center">
