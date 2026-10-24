@@ -82,14 +82,13 @@ const aryan = {
       </td>
     </tr>
   </table>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanranjan1&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanranjan1&theme=dracula&hide_border=true" height="165" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanranjan1&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=06B6D4&point=ffffff" width="100%" alt="Contribution activity graph" />
-</div>
+### 🔭 What I'm Working On
+
+- 🌐 Building my portfolio and content platform with Next.js and TypeScript
+- 📚 Digging into backend architecture, databases and how operating systems work
+- 🌱 Looking for open-source issues to contribute to and projects to ship
 
 ---
 
