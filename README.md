@@ -15,7 +15,9 @@ Interested in backend engineering, systems programming, and full-stack developme
 ## 📊 GitHub Statistics
 
 <div align="center">
- <img width="49%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRhYWc5MTZnbHBmMTVhMnV1MHNvMmxsZ3pnenZsbDRjNmF1b20wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zB9vrVYNTafMx7HBpL/giphy.gif" alt="ASCII art animation" /> 
+ <p align="center">
+  <img width="20%" src="https://i.postimg.cc/NFxYmPdZ/sigil.png" alt="Aryan's sigil" />
+</p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanranjan1&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Most used programming languages" />
 </div>
 
